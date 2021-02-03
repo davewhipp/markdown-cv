@@ -13,7 +13,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 <div id="webaddress">
   <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
+  <a href="https://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
   <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
   <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
@@ -618,7 +618,7 @@ Did not attend/judge in 2015
 **Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
 
 `2018-present`
-**Board member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
+**Steering group member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
 
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
 
@@ -630,7 +630,7 @@ Did not attend/judge in 2015
 **Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2017-2020`
-**Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+**Steering group member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
 `2017-2018`
 **Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
@@ -688,4 +688,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-<br/>Last updated: January 2021<br/><br/>
+<br/>Last updated: February 2021<br/><br/>
