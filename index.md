@@ -13,7 +13,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 <div id="webaddress">
   <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
+  <a href="http://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
   <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
   <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
