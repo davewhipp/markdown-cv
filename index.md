@@ -123,7 +123,7 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 ### Under review
 
 `2026-2026`
-**Research infrastructure project**, *Academy of Finland*, Finland, 440 558€ (Project total 1 735 558€). Consortium PI.<br/>
+**Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
 DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
 
 <!--
