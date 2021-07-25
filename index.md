@@ -74,9 +74,13 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 ### Journal articles
 
+<!-- 
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 
 M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Engineering Geology*, **submitted**.
+-->
+
+A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, **under review**.
 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
 
@@ -469,7 +473,7 @@ Co-supervised with Seija Kultti
 **Tuija Luhta**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Timo Tiira
 
-`2017-present`
+`2017-2021`
 **Matthias Nettesheim**, *Department of Geosciences, University of Tübingen*, Tübingen, Germany.<br/>
 Co-supervised with Todd Ehlers
 
@@ -524,6 +528,9 @@ Co-supervised with Jorina Schütt
 
 ### Supervisory committee
 
+`2021-present`
+**Niina Junna**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
 `2020-present`
 **Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
@@ -551,6 +558,9 @@ Now: Ph.D. student, Oregon State University
 **Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
 ### Undergraduate interns
+
+`2021`
+**Bérénice Cateland**, *Geosciences, University of Bordeaux*, Bordeaux, France.
 
 `2017-2019`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
@@ -694,4 +704,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-<br/>Last updated: February 2021<br/><br/>
+<br/>Last updated: July 2021<br/><br/>
