@@ -31,7 +31,7 @@ FI-00014 University of Helsinki, Finland<br/>
 ## Experience
 
 `2021-present`
-**Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Professor**, *Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki*, Helsinki, Finland.
 
 `2013-2023`
 **Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
@@ -79,6 +79,8 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Engineering Geology*, **submitted**.
 -->
+
+S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. 	Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, **under review**.
 
 A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, **under review**.
 
@@ -540,7 +542,7 @@ Co-supervised with Jorina Schütt
 
 **Ville Virtanen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
-`2019-present`
+`2019-2021`
 **Suoya Fan**, *Doctoral student, Dept. of Earth and Atmospheric Sciences, University of Houston*, Houston, TX, USA.
 
 `2018`
@@ -704,4 +706,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-<br/>Last updated: July 2021<br/><br/>
+<br/>Last updated: September 2021<br/><br/>
