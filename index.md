@@ -62,7 +62,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). \* = Student as lead author, &dagger; = shared first authorship.*
+*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). \* = student as lead author, &dagger; = shared first authorship.*
 
 ### Books
 
