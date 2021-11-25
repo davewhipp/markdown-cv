@@ -87,7 +87,7 @@ M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
 
 `2021`
-A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, **accepted**.
+A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, doi: [10.1785/0220210195](https://doi.org/10.1785/0220210195), 2021.
 
 `2020`
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
