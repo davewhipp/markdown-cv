@@ -465,7 +465,7 @@ Co-taught with Lars Kaislaniemi
 `2015-2018`
 **Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-### Doctoral students
+### Doctoral researchers
 `2021-present`
 **Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Jon Pownall and Pentti Hölttä (GTK)
@@ -709,4 +709,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-<br/>Last updated: September 2021<br/><br/>
+<br/>Last updated: January 2022<br/><br/>
