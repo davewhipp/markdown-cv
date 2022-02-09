@@ -78,13 +78,14 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
-**D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, and I. Coutand. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, **under review**.
-
 S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. 	Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, **under review**.
 
 M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Remote Sensing*, **in revision**.
 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
+
+`2022`
+**D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, and I. Coutand. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, **in press**.
 
 `2021`
 A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, doi: [10.1785/0220210195](https://doi.org/10.1785/0220210195), 2021.
