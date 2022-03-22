@@ -85,7 +85,7 @@ M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
 
 `2022`
-**D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, and I. Coutand. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, **in press**.
+**D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, I. Coutand, and R. A. Ketcham. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, 4, 143-152, doi: [10.5194/gchron-4-143-2022](https://doi.org/10.5194/gchron-4-143-2022), 2022.
 
 `2021`
 A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, doi: [10.1785/0220210195](https://doi.org/10.1785/0220210195), 2021.
