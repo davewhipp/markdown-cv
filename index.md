@@ -150,8 +150,8 @@ Extracting the Record of mountain Erosion processes COntained in River Detritus 
 
 ### Research funding
 
-`2021-2022`
-**Project funding**, *Renlund foundation*, Finland, 21 324€. Sole PI.<br/>
+`2021-2023`
+**Project funding**, *Renlund foundation*, Finland, 37 992€. Sole PI.<br/>
 Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
 
 `2014–2018`
