@@ -126,9 +126,15 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 **D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
 
+### Software
+
+**D. M. Whipp** and R. A. Ketcham. tcplotter: a Python package for creating and customizing thermochronometer age and closure temperature plots. doi: [10.5281/zenodo.5958939](https://doi.org/10.5281/zenodo.5958939).
+
 ## Grants and funding
 
 *Funding includes only amounts over 5000€*
+
+<!--
 
 ### Under review
 
@@ -136,7 +142,7 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 **Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
 DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
 
-<!--
+
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
 
