@@ -80,8 +80,6 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. 	Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, **under review**.
 
-M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Remote Sensing*, **in revision**.
-
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
 
 `2022`
@@ -615,6 +613,9 @@ A short course on how to conduct and share classroom observations.
 
 ## Professional service
 
+`2022-2024`
+**Associate editor**, Tektonika, <https://tektonika.online>.
+
 `2020`
 **Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
 
@@ -639,6 +640,10 @@ Did not attend/judge in 2015
 **Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
 ## University service
+
+`2022-present`
+**Board member**, *Doctoral program in Geosciences*, University of Helsinki, Helsinki, Finland.
+
 `2021-present`
 **Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
@@ -716,4 +721,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-<br/>Last updated: January 2022<br/><br/>
+<br/>Last updated: May 2022<br/><br/>
