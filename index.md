@@ -78,11 +78,13 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
-S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. 	Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, **under review**.
+M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
 
 `2022`
+S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in the Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, doi: [10.1029/2021TC007071](https://doi.org/10.1029/2021TC007071), 2022.
+
 **D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, I. Coutand, and R. A. Ketcham. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, 4, 143-152, doi: [10.5194/gchron-4-143-2022](https://doi.org/10.5194/gchron-4-143-2022), 2022.
 
 `2021`
@@ -139,7 +141,6 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 `2022-2026`
 **Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
 DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
-
 
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
