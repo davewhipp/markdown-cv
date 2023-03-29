@@ -66,7 +66,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ### Books
 
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2022). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
+H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2023). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
 
 <!--
 ### Journal articles, in preparation
@@ -78,9 +78,11 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
+V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., **under review**.
+
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **under review**.
+D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Tektonika*, **in revision**.
 
 `2022`
 S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in the Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, doi: [10.1029/2021TC007071](https://doi.org/10.1029/2021TC007071), 2022.
@@ -127,6 +129,8 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 **D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
 
 ### Software
+
+**D. M. Whipp**. Tc1D: a 1D thermal and thermochronometer age prediction model for quantifying rates of geodynamic and geomorphic processes. doi: [10.5281/zenodo.7124271](https://doi.org/10.5281/zenodo.7124271)
 
 **D. M. Whipp** and R. A. Ketcham. tcplotter: a Python package for creating and customizing thermochronometer age and closure temperature plots. doi: [10.5281/zenodo.5958939](https://doi.org/10.5281/zenodo.5958939).
 
@@ -268,9 +272,25 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 **Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
 “Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
 
+<!-- 
 ### Presentations
 
 *Past 4 years. Asterisks indicate student lead authors.*
+
+
+`2022`
+- Lito2022
+- ALW
+- Suoya (GSA, AGU)?
+
+`2021`
+- Suoya?
+- Lito2021
+- FNGC Oulu
+
+`2020`
+- Fringe?
+- Jugraj?
 
 `2020`
 A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. Pütz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs. Vol 52, No. 6, 2020. doi: 10.1130/abs/2020AM-358401.
@@ -308,7 +328,6 @@ J. Schütt\* and **D. M. Whipp**. 3D dynamics of crustal deformation driven by 
 
 **D. M. Whipp** and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
 
-<!--
 `2016`
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Interpreting records of tectonic and erosional processes using detrital thermochronology: An example from the Bhutan Himalaya. Abstract T42B-05 presented at 2016 Fall Meeting, AGU, San Francisco, Calif., USA, 12–16 Dec, 2016 (**invited**).
 
@@ -450,11 +469,12 @@ Co-taught with Lars Kaislaniemi
 
 ### Guest lectures
 
+`2010-present`
+**Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
+Guest lectures in years 2010, 2019, 2021, 2022
+
 `2019`
 **Geo-Python**, *Department of Geography and Geology, University of Turku and Department of Geology and Mineralogy, Åbo Akademi University*, Turku, Finland.
-
-`2010, 2019`
-**Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
 `2015-2018`
 **Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
@@ -527,11 +547,14 @@ Now: Geologist, Pöyry Finland Oy
 <!-- `2019-present`
 **Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany. -->
 
+`2021-2023`
+**Minttu Pekkala**, *Bachelor's Program in Geoscience, University of Helsinki*, Helsinki, Finland.
+
 `2018-2020`
-**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+**Leevi Tuikka**, *Bachelor's Program in Physical Sciences, University of Helsinki*, Helsinki, Finland.
 
 `2016–2018`
-**Lotta Ylä-Mella**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+**Lotta Ylä-Mella**, *Bachelor's Program in Physical Sciences, University of Helsinki*, Helsinki, Finland.
 
 `2016–2017`
 **Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
@@ -545,14 +568,15 @@ Co-supervised with Jorina Schütt
 ### Supervisory committee
 
 `2021-present`
-**Niina Junna**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+**Niina Junno**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-present`
-**Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
 **Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 **Tsarsitalidou, Christina**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+`2020-2022`
+**Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 **Ville Virtanen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
@@ -573,7 +597,7 @@ Now: Ph.D. student, Oregon State University
 `2011–2014`
 **Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
-### Undergraduate interns
+### Undergraduate researchers
 
 `2021`
 **Bérénice Cateland**, *Geosciences, University of Bordeaux*, Bordeaux, France.
@@ -619,6 +643,9 @@ A short course on how to conduct and share classroom observations.
 
 ## Professional service
 
+`2022-present`
+**Member**, Finnish national International Lithosphere Program (ILP) committee.
+
 `2022-2024`
 **Associate editor**, Tektonika, <https://tektonika.online>.
 
@@ -656,16 +683,17 @@ Did not attend/judge in 2015
 **Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
 
 `2018-present`
-**Steering group member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
-
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
-
-**Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
 
 **Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
 
 `2021-2022`
 **Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
+`2018-2022`
+**Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
+
+**Steering group member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
 
 `2017-2020`
 **Steering group member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
@@ -727,6 +755,8 @@ Citizenship: USA
 
 Residence: Finland (Permanent resident)
 
+<!-- 
 Family: Married, two children
+-->
 
-<br/>Last updated: September 2022<br/><br/>
+<br/>Last updated: March 2023<br/><br/>
