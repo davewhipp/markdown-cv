@@ -142,21 +142,22 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 ### Under review
 
-`2022-2026`
-**Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
-DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
-
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
 
 -->
 
 ### Under review
+
+`2024-2028`
+**Research infrastructure funding**, *Academy of Finland*, Finland, 961 620€ (Project total: 1 956 596€). Consortium PI.<br/>
+DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
+
+### Research funding
+
 `2023-2027`
 **Academy Project**, *Academy of Finland*, Finland, 501 081€. Sole PI.<br/>
 EXploiting Thermochronometer sensitivity to RAdiation damage to quantify rates of Craton exhumation through Time (EXTRACT)
-
-### Research funding
 
 `2021-2023`
 **Project funding**, *Renlund foundation*, Finland, 37 992€. Sole PI.<br/>
