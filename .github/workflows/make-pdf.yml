@@ -1,0 +1,5 @@
+name: Make CV PDF
+uses: markwilson/html2pdf@v1.0
+with:
+  htmlPath: 'index.html'
+  pdfName: 'whipp-CV'
