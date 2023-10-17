@@ -8,8 +8,9 @@ jobs:
   Make-PDF:
     runs-on: ubuntu-latest
     steps:
-      - name: HTML to PDF
-        uses: markwilson/html2pdf@v1.0
+      - name: html to pdf
+        uses: LukaszLapaj/html-to-pdf-action@master
         with:
-          htmlPath: 'index.html'
-          pdfName: 'whipp-CV'
+          htmlFile: ./index.html
+          outputFile: ./whipp-CV.pdf
+          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
