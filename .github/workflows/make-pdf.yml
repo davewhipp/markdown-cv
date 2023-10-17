@@ -1,5 +1,15 @@
 name: Make CV PDF
-uses: markwilson/html2pdf@v1.0
-with:
-  htmlPath: 'index.html'
-  pdfName: 'whipp-CV'
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on:
+  workflow_dispatch:
+    branches:
+      - gh-pages
+jobs:
+  Make-PDF:
+    runs-on: ubuntu-latest
+    steps:
+      - name: HTML to PDF
+        uses: markwilson/html2pdf@v1.0
+        with:
+          htmlPath: 'index.html'
+          pdfName: 'whipp-CV'
