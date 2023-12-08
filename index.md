@@ -16,7 +16,8 @@ FI-00014 University of Helsinki, Finland<br/>
   <a href="http://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
   <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
+  <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
+  <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> - 
   <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
 </div>
 
@@ -80,9 +81,11 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., **under review**.
 
+<!-- 
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
+-->
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Tektonika*, **in revision**.
+D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. **in revision**.
 
 `2022`
 S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in the Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, doi: [10.1029/2021TC007071](https://doi.org/10.1029/2021TC007071), 2022.
@@ -494,10 +497,19 @@ Guest lectures in years 2010, 2019, 2021, 2022
 
 ### Postdoctoral researchers
 
+`2023-present`
+**Sean Kelly**, *Geological Survey of Canada*, Dartmouth, N.S., Canada.<br/>
+Co-supervised with Dawn Kellett (GSC)
+
 `2015-2018`
 **Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Doctoral researchers
+`2024-present`
+**Ann-Kathrin Maier**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
+
+**Leevi Tuikka**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
+
 `2021-present`
 **Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Jon Pownall and Pentti Hölttä (GTK)
@@ -519,7 +531,7 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
-`2021-present`
+`2021-2023`
 **Leevi Tuikka**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
 `2020-present`
@@ -629,6 +641,10 @@ Co-supervised with Todd Ehlers
 Co-supervised with Todd Ehlers
 
 ## Professional training
+
+`2023`
+**As a Supervisor**, *University of Helsinki*, Helsinki, Finland.<br/>
+Supervisor training program organized by the university to support supervisors in managing their teams.
 
 `2020`
 **Learning in Higher Education (UP1)**, *Centre for University Teaching and Learning, University of Helsinki*, Helsinki, Finland.<br/>
@@ -760,4 +776,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: March 2023<br/><br/>
+<br/>Last updated: December 2023<br/><br/>
