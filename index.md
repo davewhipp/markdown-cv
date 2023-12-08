@@ -531,12 +531,12 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
-`2021-2023`
-**Leevi Tuikka**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
-
 `2020-present`
 **Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Tuija Luhta and Kati Oinonen
+
+`2021-2023`
+**Leevi Tuikka**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
 `2018-2021`
 **Aleksi Rantanen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
