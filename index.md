@@ -18,7 +18,7 @@ FI-00014 University of Helsinki, Finland<br/>
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> - 
   <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
   <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fa-brands fa-twitter"></i> @dave_whipp</a>
+  <a href="https://bsky.app/profile/davewhipp.bsky.social"><i class="fa-brands fa-bluesky"></i> @davewhipp</a>
 </div>
 
 ## Education
@@ -442,16 +442,16 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 - \- Current Topics in Global Geophysics Research
-- \- Geo-Python (with Henrikki Tenkanen and Vuokko Heikinheimo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
+- \- Geo-Python (co-taught) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
-- \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
+- \- Introduction to Lithospheric Geodynamic Modelling (co-taught) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
 - \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
-- \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
+- \- Lithospheric Structure and Dynamics (co-taught until 2023)
 
 `2018`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-- \- Conducting scientific research (with Tapani Rämö)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
+- \- Conducting scientific research (co-taught)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
 
 ### Short courses
 
@@ -474,7 +474,7 @@ Co-taught with Lars Kaislaniemi
 
 `2010-present`
 **Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Guest lectures in years 2010, 2019, 2021, 2022
+Guest lectures in years 2010, 2019, 2021, 2022, 2024
 
 `2019`
 **Geo-Python**, *Department of Geography and Geology, University of Turku and Department of Geology and Mineralogy, Åbo Akademi University*, Turku, Finland.
@@ -530,7 +530,20 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
-`2020-present`
+`2023-present`
+**Ana-Belen Haivio Reales**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Ian Corfe, Toni Luoto, and Johanna Salminen
+
+**Elisa Muñoz**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Leevi Tuikka
+
+**Liisa Nygrén**,  *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Lotta Ylä-Mella
+
+**Sanni Laaksonen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Ann-Kathrin Maier
+
+`2020-2024`
 **Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Tuija Luhta and Kati Oinonen
 
@@ -691,8 +704,6 @@ Did not attend/judge in 2015
 ## University service
 
 `2022-present`
-**Director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
 **Board member**, *Doctoral program in Geosciences*, University of Helsinki, Helsinki, Finland.
 
 `2020-present`
@@ -701,10 +712,17 @@ Did not attend/judge in 2015
 `2018-present`
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
 
-**Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
+`2017-present`
+**Steering group member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
+`2022-2024`
+**Director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
 `2021-2022`
 **Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
+`2018-2023`
+**Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
 
 `2018-2022`
 **Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
@@ -775,4 +793,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: November 2024<br/><br/>
+<br/>Last updated: January 2025<br/><br/>
