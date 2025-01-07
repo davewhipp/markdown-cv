@@ -451,7 +451,7 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 `2018`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-- \- Conducting scientific research (co-taught)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
+- \- Conducting scientific research (co-taught)
 
 ### Short courses
 
