@@ -34,6 +34,11 @@ FI-00014 University of Helsinki, Finland<br/>
 `2021-present`
 **Professor**, *Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki*, Helsinki, Finland.
 
+`2025`
+**Visiting professor**, *Department of Earth Science & Environmental Change, University of Illinois Urbana-Champaign*, Urbana, IL, USA. (1.5 months)
+
+**Visiting professor**, *Department of Geological Sciences, University of Colorado Boulder*, Boulder, CO, USA. (2 months)
+
 `2013-2023`
 **Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
@@ -83,7 +88,7 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
 -->
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. **in revision**.
+D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Conductive Thermal Relaxation Following Thrust Cessation as a Driver of Ultra-Rapid Cooling. *Journal of Structural Geology*, **under review**.
 
 `2024`
 V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., doi: [10.1016/j.gexplo.2024.107456](https://doi.org/10.1016/j.gexplo.2024.107456), 2024.
@@ -217,6 +222,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 **Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
 ## Invited talks
+
+`2025`
+**University of Colorado**, *Colloquium, Department of Geological Sciences*, Boulder, CO, USA.
 
 `2019`
 **University of Turku**, *Department seminar, Department of Geography and Geology*, Turku, Finland.
@@ -531,14 +539,12 @@ Co-supervised with Todd Ehlers
 ### Masters students
 
 `2023-present`
-**Ana-Belen Haivio Reales**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Ian Corfe, Toni Luoto, and Johanna Salminen
-
-**Elisa Muñoz**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Leevi Tuikka
-
 **Liisa Nygrén**,  *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Lotta Ylä-Mella
+
+`2023-2025`
+**Elisa Muñoz**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Leevi Tuikka
 
 **Sanni Laaksonen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Ann-Kathrin Maier
@@ -592,13 +598,25 @@ Co-supervised with Jorina Schütt
 
 ### Supervisory committee
 
+`2024-present`
+**Lakshika Palamakumbure**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+`2023-present`
+**Jenniina Siira**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+`2022-present`
+**Isabel McDonald**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+**Kaiu Piipponen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
 `2021-present`
 **Niina Junno**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-present`
-**Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+**Christina Tsarsitalidou**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
-**Tsarsitalidou, Christina**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+`2020-2025`
+**Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-2022`
 **Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
@@ -673,16 +691,15 @@ A short course on how to conduct and share classroom observations.
 ## Professional service
 
 `2022-present`
-**Member**, Finnish national International Lithosphere Program (ILP) committee.
-
-`2022-2024`
 **Associate editor**, Tektonika, <https://tektonika.online>.
 
-`2020`
-**Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
+**Member**, Finnish national International Lithosphere Program (ILP) committee.
 
 `2019-present`
 **Preparatory committee member**, *AdriaArray project*.
+
+`2020`
+**Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
 
 `2016-2018`
 **Judge**, *Outstanding Student Poster and PICO Award, European Geosciences Union General Assembly*, Vienna, Austria.
@@ -697,7 +714,7 @@ Did not attend/judge in 2015
 `2007-present`
 **Referee**.
 
-**Journals**: *AGU Advances*, *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
+**Journals**: *AGU Advances*, *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Proceedings of the National Academy of Sciences*, *Science*, *Tectonics*, *Tectonophysics*
 
 **Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
@@ -793,4 +810,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: January 2025<br/><br/>
+<br/>Last updated: August 2025<br/><br/>
