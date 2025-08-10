@@ -35,8 +35,14 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: HTML to PDF
-        uses: LukaszLapaj/html-to-pdf-action@master
+      #- name: HTML to PDF
+      #  uses: LukaszLapaj/html-to-pdf-action@master
+      #  with:
+      #    htmlFile: ./_site/index.html
+      #    outputFile: ./_site/whipp-CV.pdf
+      #    pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+      - name: html to pdf
+        uses: fifsky/html-to-pdf-action@master
         with:
           htmlFile: ./_site/index.html
           outputFile: ./_site/whipp-CV.pdf
