@@ -34,6 +34,11 @@ FI-00014 University of Helsinki, Finland<br/>
 `2021-present`
 **Professor**, *Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki*, Helsinki, Finland.
 
+`2025`
+**Visiting professor**, *Department of Earth Science & Environmental Change, University of Illinois Urbana-Champaign*, Urbana, IL, USA (1.5 months).
+
+**Visiting professor**, *Department of Geological Sciences, University of Colorado Boulder*, Boulder, CO, USA (2 months).
+
 `2013-2023`
 **Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
