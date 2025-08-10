@@ -540,14 +540,12 @@ Co-supervised with Todd Ehlers
 ### Masters students
 
 `2023-present`
-**Ana-Belen Haivio Reales**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Ian Corfe, Toni Luoto, and Johanna Salminen
-
-**Elisa Muñoz**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
-Co-supervised with Leevi Tuikka
-
 **Liisa Nygrén**,  *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Lotta Ylä-Mella
+
+`2023-2025`
+**Elisa Muñoz**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Leevi Tuikka
 
 **Sanni Laaksonen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Ann-Kathrin Maier
