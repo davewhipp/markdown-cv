@@ -89,7 +89,7 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
 -->
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. **in revision**.
+D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Conductive Thermal Relaxation Following Thrust Cessation as a Driver of Ultra-Rapid Cooling. *Journal of Structural Geology*, **under review**.
 
 `2024`
 V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., doi: [10.1016/j.gexplo.2024.107456](https://doi.org/10.1016/j.gexplo.2024.107456), 2024.
