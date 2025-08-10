@@ -37,7 +37,6 @@ FI-00014 University of Helsinki, Finland<br/>
 `2025`
 **Visiting professor**, *Department of Earth Science & Environmental Change, University of Illinois Urbana-Champaign*, Urbana, IL, USA. (1.5 months)
 
-`2025`
 **Visiting professor**, *Department of Geological Sciences, University of Colorado Boulder*, Boulder, CO, USA. (2 months)
 
 `2013-2023`
@@ -692,16 +691,15 @@ A short course on how to conduct and share classroom observations.
 ## Professional service
 
 `2022-present`
-**Member**, Finnish national International Lithosphere Program (ILP) committee.
-
-`2022-2024`
 **Associate editor**, Tektonika, <https://tektonika.online>.
 
-`2020`
-**Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
+**Member**, Finnish national International Lithosphere Program (ILP) committee.
 
 `2019-present`
 **Preparatory committee member**, *AdriaArray project*.
+
+`2020`
+**Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
 
 `2016-2018`
 **Judge**, *Outstanding Student Poster and PICO Award, European Geosciences Union General Assembly*, Vienna, Austria.
@@ -716,7 +714,7 @@ Did not attend/judge in 2015
 `2007-present`
 **Referee**.
 
-**Journals**: *AGU Advances*, *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
+**Journals**: *AGU Advances*, *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Proceedings of the National Academy of Sciences*, *Science*, *Tectonics*, *Tectonophysics*
 
 **Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
@@ -812,4 +810,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: January 2025<br/><br/>
+<br/>Last updated: August 2025<br/><br/>
