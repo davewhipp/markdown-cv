@@ -599,13 +599,25 @@ Co-supervised with Jorina Schütt
 
 ### Supervisory committee
 
+`2024-present`
+**Lakshika Palamakumbure**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+`2023-present`
+**Jenniina Siira**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+`2022-present`
+**Isabel McDonald**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+**Kaiu Piipponen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
 `2021-present`
 **Niina Junno**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-present`
-**Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+**Christina Tsarsitalidou**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
-**Tsarsitalidou, Christina**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+`2020-2025`
+**Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-2022`
 **Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
