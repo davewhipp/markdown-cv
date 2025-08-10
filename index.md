@@ -224,6 +224,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ## Invited talks
 
+`2025`
+**University of Colorado**, *Colloquium, Department of Geological Sciences*, Boulder, CO, USA.
+
 `2019`
 **University of Turku**, *Department seminar, Department of Geography and Geology*, Turku, Finland.
 
