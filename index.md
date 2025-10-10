@@ -90,7 +90,9 @@ M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran
 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Conductive Thermal Relaxation Following Thrust Cessation as a Driver of Ultra-Rapid Cooling. *Journal of Structural Geology*, **in review**.
 
-K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, T. Ehlers. Constraining orogenic response time with single-grain, multi-method detrital thermochronometry. *Geology*, **submitted**.
+K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining orogenic response time with single-grain, multi-method detrital thermochronometry. *Geology*, **sin review**.
+
+S. Kelly, D. Kellett, I. Coutand, D. Grujic, and **D. M. Whipp**. Heating from Above or Below: Exploring Geodynamic Explanations for the Orogenic Thermal History of the Northern Canadian Cordillera. *Journal of Geophysical Research: Solid Earth*, **submitted**.
 
 `2024`
 V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., doi: [10.1016/j.gexplo.2024.107456](https://doi.org/10.1016/j.gexplo.2024.107456), 2024.
