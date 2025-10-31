@@ -90,9 +90,11 @@ M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran
 
 D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Conductive Thermal Relaxation Following Thrust Cessation as a Driver of Ultra-Rapid Cooling. *Journal of Structural Geology*, **in review**.
 
+D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, **submitted**.
+
 K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining orogenic response time with single-grain, multi-method detrital thermochronometry. *Geology*, **in review**.
 
-S. Kelly, D. Kellett, I. Coutand, D. Grujic, and **D. Whipp**. Heating from Above or Below: Exploring Geodynamic Explanations for the Orogenic Thermal History of the Northern Canadian Cordillera. *Journal of Geophysical Research: Solid Earth*, **submitted**.
+S. Kelly, D. Kellett, I. Coutand, D. Grujic, and **D. Whipp**. Heating from Above or Below: Exploring Geodynamic Explanations for the Orogenic Thermal History of the Northern Canadian Cordillera. *Journal of Geophysical Research: Solid Earth*, **in review**.
 
 `2024`
 V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., doi: [10.1016/j.gexplo.2024.107456](https://doi.org/10.1016/j.gexplo.2024.107456), 2024.
@@ -510,6 +512,9 @@ Guest lectures in years 2010, 2019, 2021, 2022, 2024
 
 ### Postdoctoral researchers
 
+`2025-present`
+**Benjamin Gérard**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
+
 `2023-present`
 **Sean Kelly**, *Geological Survey of Canada*, Dartmouth, N.S., Canada.<br/>
 Co-supervised with Dawn Kellett (GSC)
@@ -816,4 +821,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: August 2025<br/><br/>
+<br/>Last updated: October 2025<br/><br/>
