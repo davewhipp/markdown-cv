@@ -15,10 +15,9 @@ FI-00014 University of Helsinki, Finland<br/>
   <a href="https://davewhipp.github.io"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> - 
   <a href="http://www.helsinki.fi/geodynamics"><i class="fa-solid fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
   <a href="https://github.com/davewhipp"><i class="fa-brands fa-github"></i> davewhipp</a> - 
+  <a href="https://github.com/HUGG"><i class="fa-brands fa-github"></i> HUGG (group)</a> - 
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> - 
-  <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
-  <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> - 
-  <a href="https://bsky.app/profile/davewhipp.bsky.social"><i class="fa-brands fa-bluesky"></i> @davewhipp</a>
+  <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> 
 </div>
 
 ## Education
