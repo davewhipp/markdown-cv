@@ -83,10 +83,6 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
-<!-- 
-
--->
-
 D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, **in revision**.
 
 K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining exhumation rate histories of the Southern Alps of Aotearoa New Zealand with single-grain, multi-method detrital thermochronometry . *Earth and Planetary Science Letters*, **in review**.
