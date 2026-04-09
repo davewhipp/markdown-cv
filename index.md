@@ -521,10 +521,14 @@ Co-supervised with Dawn Kellett (GSC)
 **Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Doctoral researchers
+`2026-present`
+**Elisa Muñoz**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
+
 `2024-present`
 **Ann-Kathrin Maier**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
 
 **Leevi Tuikka**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
+Co-supervised with Cedric Thieulot (Utrecht University, Netherlands)
 
 `2021-present`
 **Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
