@@ -83,9 +83,9 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
-D. M. Whipp, B. Gérard, S. Laaksonen, D. A. Kellett. Technical note: Tc1D - a 1D thermal and thermochronometer age prediction model. *Geochronology*, **in review**.
+D. M. Whipp, B. Gérard, S. Laaksonen, D. A. Kellett. Technical note: Tc1D - a 1D thermal and thermochronometer age prediction model. *Geochronology*, doi: [10.5194/egusphere-2026-2514](https://doi.org/10.5194/egusphere-2026-2514), **in review**.
 
-D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, **in revision**.
+D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, doi: [10.5194/egusphere-2025-5403](https://doi.org/10.5194/egusphere-2025-5403), **in revision**.
 
 K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining exhumation rate histories of the Southern Alps of Aotearoa New Zealand with single-grain, multi-method detrital thermochronometry . *Earth and Planetary Science Letters*, **in revision**.
 
