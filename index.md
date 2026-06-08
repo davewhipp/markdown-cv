@@ -71,7 +71,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ### Books
 
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2025). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
+H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2026). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/).
 
 <!--
 ### Journal articles, in preparation
@@ -83,9 +83,11 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
+D. M. Whipp, B. Gérard, S. Laaksonen, D. A. Kellett. Technical note: Tc1D - a 1D thermal and thermochronometer age prediction model. *Geochronology*, **in review**.
+
 D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, **in revision**.
 
-K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining exhumation rate histories of the Southern Alps of Aotearoa New Zealand with single-grain, multi-method detrital thermochronometry . *Earth and Planetary Science Letters*, **in review**.
+K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining exhumation rate histories of the Southern Alps of Aotearoa New Zealand with single-grain, multi-method detrital thermochronometry . *Earth and Planetary Science Letters*, **in revision**.
 
 S. Kelly, D. Kellett, I. Coutand, D. Grujic, and **D. Whipp**. Heating from Above or Below: Exploring Geodynamic Explanations for the Orogenic Thermal History of the Northern Canadian Cordillera. *Journal of Geophysical Research: Solid Earth*, **in revision**.
 
@@ -227,6 +229,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ## Invited talks
 
+`2026`
+**Geological Survey of Finland**, *2026 Workshop on AI in Earth and Planetary Science*, Espoo, Finland.
+
 `2025`
 **United States Geological Survey**, *Rock Talk*, Lakewood, CO, USA.
 
@@ -269,7 +274,10 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ### Organization
 
-`2024, 2014`
+`2026-2027`
+**Scientific committee**, *20th International Conference on Thermochronology (Thermo2027)*, Canada.
+
+`2026, 2024, 2014`
 **Steering committee**, *Lithosphere symposium*, Finland.
 
 `2017`
@@ -455,7 +463,7 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 `2013-present`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-- \- Current Topics in Global Geophysics Research
+<!-- - \- Current Topics in Global Geophysics Research -->
 - \- Geo-Python (co-taught) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Introduction to Lithospheric Geodynamic Modelling (co-taught) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
@@ -488,7 +496,7 @@ Co-taught with Lars Kaislaniemi
 
 `2010-present`
 **Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Guest lectures in years 2010, 2019, 2021, 2022, 2024
+Guest lectures in years 2010, 2019, 2021, 2022, 2024, and 2026
 
 `2019`
 **Geo-Python**, *Department of Geography and Geology, University of Turku and Department of Geology and Mineralogy, Åbo Akademi University*, Turku, Finland.
@@ -622,14 +630,14 @@ Co-supervised with Jorina Schütt
 
 **Kaiu Piipponen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
-`2021-present`
+`2021-2025`
 **Niina Junno**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-`2020-present`
-**Christina Tsarsitalidou**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-2025`
 **Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+`2020-2025`
+**Christina Tsarsitalidou**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-2022`
 **Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
@@ -729,12 +737,12 @@ Did not attend/judge in 2015
 
 **Journals**: *AGU Advances*, *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Proceedings of the National Academy of Sciences*, *Science*, *Tectonics*, *Tectonophysics*
 
-**Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
+**Research project proposals**: French National Research Agency, German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
 ## University service
 
-`2022-present`
-**Board member**, *Doctoral program in Geosciences*, University of Helsinki, Helsinki, Finland.
+`2026-present`
+**Leader**, *Department of Geosciences and Geography data and IT management task force, University of Helsinki*, Helsinki, Finland.
 
 `2020-present`
 **Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
@@ -744,6 +752,9 @@ Did not attend/judge in 2015
 
 `2017-present`
 **Steering group member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
+`2022-2025`
+**Board member**, *Doctoral program in Geosciences*, University of Helsinki, Helsinki, Finland.
 
 `2022-2024`
 **Director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
@@ -823,4 +834,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: October 2025<br/><br/>
+<br/>Last updated: June 2026<br/><br/>
