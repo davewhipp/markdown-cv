@@ -85,14 +85,14 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 V. Peltonen\*,  S. Kultti, **D. Whipp**, V. Rinterknecht, F. Schenk, and J. P. Lunkka. Hidden in the Outliers: Reassessing geochronological evidence of the last deglaciation of the Finnish sector of the Fennoscandian Ice Sheet. *Boreas*, **in review**.
 
-**D. M. Whipp**, B. Gérard, S. Laaksonen, D. A. Kellett. Technical note: Tc1D - a 1D thermal and thermochronometer age prediction model. *Geochronology*, doi: [10.5194/egusphere-2026-2514](https://doi.org/10.5194/egusphere-2026-2514), **in review**.
+K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining exhumation rate histories of the Southern Alps of Aotearoa New Zealand with single-grain, multi-method detrital thermochronometry . *Earth and Planetary Science Letters*, **in review**.
 
-K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehlers. Constraining exhumation rate histories of the Southern Alps of Aotearoa New Zealand with single-grain, multi-method detrital thermochronometry . *Earth and Planetary Science Letters*, **in revision**.
-
-S. Kelly\*, D. Kellett, I. Coutand, D. Grujic, and **D. Whipp**. Heating from Above or Below: Exploring Geodynamic Explanations for the Orogenic Thermal History of the Northern Canadian Cordillera. *Journal of Geophysical Research: Solid Earth*, **in revision**.
+S. Kelly\*, D. Kellett, I. Coutand, D. Grujic, and **D. Whipp**. Heating from Above or Below: Exploring Geodynamic Explanations for the Orogenic Thermal History of the Northern Canadian Cordillera. *Journal of Geophysical Research: Solid Earth*, **in review**.
 
 `2026`
-D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, doi: [10.5194/egusphere-2025-5403](https://doi.org/10.5194/egusphere-2025-5403), **accepted**.
+**D. M. Whipp**, B. Gérard, S. Laaksonen, D. A. Kellett. Technical note: Tc1D - a 1D thermal and thermochronometer age prediction model. *Geochronology*, doi: [10.5194/egusphere-2026-2514](https://doi.org/10.5194/egusphere-2026-2514), **in press**.
+
+D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, 8, 423–445, doi: [10.5194/gchron-8-423-2026](https://doi.org/10.5194/gchron-8-423-2026).
 
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Sustanability*, doi: [10.3390/su18010173](https://doi.org/10.3390/su18010173), 2026.
 
@@ -281,6 +281,10 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 `2026, 2024, 2014`
 **Steering committee**, *Lithosphere symposium*, Finland.
+
+`2026`
+**Session co-convener**, *European Geosciences Union General Assembly*, Vienna, Austria.<br/>
+"Geospatial Computational Education in the Era of Big Earth Data"
 
 `2017`
 **Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
