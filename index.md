@@ -565,7 +565,11 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
-`2023-present`
+`2026-present`
+**Aleksi Anttila**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Leevi Tuikka
+
+`2023-2026`
 **Liisa Nygrén**,  *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Lotta Ylä-Mella
 
@@ -604,6 +608,10 @@ Now: Geologist, Pöyry Finland Oy
 
 <!-- `2019-present`
 **Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany. -->
+
+`2026-present`
+**Vilma Rosenstrand**, *Bachelor's Program in Geoscience, University of Helsinki*, Helsinki, Finland.
+Co-supervised with Tommi Vuorinen
 
 `2021-2023`
 **Minttu Pekkala**, *Bachelor's Program in Geoscience, University of Helsinki*, Helsinki, Finland.
@@ -717,12 +725,15 @@ A short course on how to conduct and share classroom observations.
 
 ## Professional service
 
+`2026`
+**Invited member**, *International Continental Drilling Program (ICDP) Geodynamics workshop*, Vienna, Austria.
+
 `2022-present`
-**Associate editor**, Tektonika, <https://tektonika.online>.
+**Associate editor**, *Tektonika*, <https://tektonika.online>.
 
-**Member**, Finnish national International Lithosphere Program (ILP) committee.
+**Member**, *Finnish national International Lithosphere Program (ILP) committee*.
 
-`2019-present`
+`2019-2022`
 **Preparatory committee member**, *AdriaArray project*.
 
 `2020`
