@@ -90,13 +90,13 @@ K. Thompson, K. Lang, **D. Whipp**, C. Glotzbach, U. Ring, P. Kamp, and T. Ehler
 S. Kelly\*, D. Kellett, I. Coutand, D. Grujic, and **D. Whipp**. Heating from Above or Below: Exploring Geodynamic Explanations for the Orogenic Thermal History of the Northern Canadian Cordillera. *Journal of Geophysical Research: Solid Earth*, **in review**.
 
 `2026`
-**D. M. Whipp**, B. Gérard, S. Laaksonen, D. A. Kellett. Technical note: Tc1D - a 1D thermal and thermochronometer age prediction model. *Geochronology*, doi: [10.5194/egusphere-2026-2514](https://doi.org/10.5194/egusphere-2026-2514), **in press**.
+**D. M. Whipp**, B. Gérard, S. Laaksonen, D. A. Kellett. Technical note: Tc1D - a 1D thermal and thermochronometer age prediction model. *Geochronology*, 8, 627–643, doi: [10.5194/gchron-8-627-2026](https://doi.org/10.5194/gchron-8-627-2026), 2026.
 
-D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, 8, 423–445, doi: [10.5194/gchron-8-423-2026](https://doi.org/10.5194/gchron-8-423-2026).
+D. A. Kellett<sup>&dagger;</sup> and **D. M. Whipp**<sup>&dagger;</sup>. Simplified modeling of the impact of lithospheric-scale geological processes on thermal histories and low-temperature thermochronometers. *Geochronology*, 8, 423–445, doi: [10.5194/gchron-8-423-2026](https://doi.org/10.5194/gchron-8-423-2026), 2026.
 
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Sustanability*, doi: [10.3390/su18010173](https://doi.org/10.3390/su18010173), 2026.
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Conductive Thermal Relaxation Following Thrust Cessation as a Driver of Ultra-Rapid Cooling. *Journal of Structural Geology*, doi: [10.1016/j.jsg.2026.105699](https://doi.org/10.1016/j.jsg.2026.105699).
+D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Conductive Thermal Relaxation Following Thrust Cessation as a Driver of Ultra-Rapid Cooling. *Journal of Structural Geology*, doi: [10.1016/j.jsg.2026.105699](https://doi.org/10.1016/j.jsg.2026.105699), 2026.
 
 `2024`
 V. Peltonen\*, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., doi: [10.1016/j.gexplo.2024.107456](https://doi.org/10.1016/j.gexplo.2024.107456), 2024.
